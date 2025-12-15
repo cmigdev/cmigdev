@@ -1,74 +1,64 @@
+> 🚧 **Work in Progress**  
+
 # 👋 Hi, I'm Carlos A. Mignone
 
-### Data Engineer | Backend Developer
+### Backend & Fullstack Developer | Data Engineering Focus
 
-I am a Data Engineer and Backend Developer focused on building reliable, scalable systems that transform data into usable and valuable assets.  
-My work sits at the intersection of software engineering and data engineering, with a strong emphasis on automation, data quality, and system reliability.
+Backend and Fullstack Developer with professional experience building production-ready APIs, services, and web applications.  
+Currently transitioning towards **Data Engineering**, working on data pipelines, workflow orchestration, and distributed systems.
 
 ---
 
 ## 👨‍💻 About Me
 
-I design and build data-driven systems thinking end-to-end:  
-from data ingestion and processing to storage, exposure through APIs, and final consumption by analytics or business tools.
+I design and build systems with an end-to-end mindset, combining backend engineering with data-driven architectures.  
+My work spans from data ingestion and processing to storage, exposure through APIs, and final consumption by analytics or business tools.
+
+My professional background is primarily in backend and fullstack development, where I have designed and implemented scalable services, APIs, and system integrations.
 
 I am particularly interested in environments where:
-- Data is treated as a product.
-- Engineering decisions consider scalability, maintainability, and operational impact.
-- Backend services and data pipelines work together as part of the same ecosystem.
+- Data is treated as a product, with clear ownership and quality standards
+- Engineering decisions consider scalability, maintainability, and operational impact
+- Backend services and data pipelines work together as part of the same ecosystem
 
 ---
 
-## 🛠️ What I Do
+## 🛠️ What I Work With
 
-- Design and develop **data pipelines (ETL / ELT)** from multiple sources.
-- Build and maintain **backend services and REST APIs**.
-- Model relational and NoSQL databases to support analytical and operational use cases.
-- Implement **orchestration and automation** for data workflows.
-- Ensure data quality, observability, and reproducibility across systems.
+- Design and development of **backend services and REST APIs**
+- Fullstack application development
+- **Relational and NoSQL data modeling**
+- Design and implementation of **ETL / ELT data pipelines**
+- Workflow orchestration with **Apache Airflow**
+- Event streaming and messaging with **Apache Kafka**
+- Containerized environments using **Docker**
+- Cloud-based deployments on **AWS**
 
 ---
 
-## 💻 Technologies & Tools
+## 💻 Technologies
 
 ### Languages
-- **Python** (data processing, scripting, backend services)
-- **TypeScript / JavaScript** (backend development, APIs)
+- **Python**
+- **TypeScript / JavaScript**
 
-### Data & Backend
-- **REST APIs**
-- **Apache Airflow** (orchestration)
-- **Apache Kafka** (event streaming)
-- **PostgreSQL**
-- **MongoDB**
-
-### Cloud & Infrastructure
-- **AWS** (data and compute services)
-- **Docker** (containerized, reproducible environments)
-
-### Engineering Practices
-- Version control with **Git / GitHub**
-- Modular and maintainable system design
-- Documentation and reproducibility
-- Agile workflows
+### Backend, Data & Infrastructure
+- REST APIs
+- PostgreSQL
+- MongoDB
+- Apache Airflow
+- Apache Kafka
+- Docker
+- AWS
 
 ---
 
 ## 🚀 Projects
 
-> Some of the repositories here showcase:
-- Data ingestion and transformation pipelines
-- Backend services and API development
-- Event-driven architectures using Kafka
-- Cloud-based data solutions on AWS
-
-(Each repository includes its own documentation and setup instructions.)
 
 ---
 
 ## 📫 Contact
-
-Feel free to connect or reach out:
 
 💼 LinkedIn: https://www.linkedin.com/in/carlos-a-mignone/  
 🐙 GitHub: https://github.com/carlos-a-mignone  
