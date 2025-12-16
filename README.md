@@ -1,5 +1,3 @@
-> 🚧 **Work in Progress**  
-
 # 👋 Hi, I'm Carlos A. Mignone
 
 ### Backend & Fullstack Developer | Data Engineering Focus
