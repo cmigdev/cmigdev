@@ -64,7 +64,6 @@ I am particularly interested in environments where:
 **Descripción:** Diseño y entrenamiento de modelos de ML para predicción de fraude.  
 **Tecnologías:** Python, FastAPI, Scikit-learn, Hugging Face.  
 **Repositorio:** [GitHub link](https://github.com/cmigdev/tpfinal-fraude)  
-**Demo / Live:** [https://huggingface.co/spaces/calgo/tpfinal-edvai]  
 
 ---
 
