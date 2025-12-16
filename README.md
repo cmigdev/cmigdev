@@ -55,6 +55,18 @@ I am particularly interested in environments where:
 
 ## 🚀 Projects
 
+### Proyecto 1: *Huella Hídrica*  
+**Descripción:** Diseño e Implementación de un Pipeline para Vulnerabilidad Hídrica y Social.  
+**Tecnologías:** Python, PySpark, Airflow, AWS  
+**Repositorio:** [GitHub link](https://github.com/YasminaBlanco/huella-hidrica))  
+
+---
+
+### Proyecto 2: *Predicción de Fraude*  
+**Descripción:** Diseño y entrenamiento de modelos de ML para predicción de fraude.  
+**Tecnologías:** Python, FastAPI, Scikit-learn, Hugging Face.  
+**Repositorio:** [GitHub link](https://github.com/cmigdev/tpfinal-fraude)  
+**Demo / Live:** [https://huggingface.co/spaces/calgo/tpfinal-edvai]  
 
 ---
 
