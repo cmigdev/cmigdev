@@ -34,20 +34,30 @@ I am particularly interested in environments where:
 
 ---
 
-## 💻 Technologies
+## 💻 Technologies & Skills
 
-### Languages
-- **Python**
-- **TypeScript / JavaScript**
+### Programming Languages
+- **Python** – scripting, data processing, backend services
+- **TypeScript / JavaScript** – backend & frontend development
 
-### Backend, Data & Infrastructure
-- REST APIs
-- PostgreSQL
-- MongoDB
-- Apache Airflow
-- Apache Kafka
-- Docker
-- AWS
+### Backend & APIs
+- RESTful API design
+- Backend services architecture
+- Authentication & integrations
+
+### Data & Databases
+- **PostgreSQL** – relational data modeling
+- **MongoDB** – NoSQL document-based storage
+- Data transformation & feature engineering
+
+### Data Engineering
+- **Apache Airflow** – workflow orchestration
+- **Apache Kafka** – event streaming & messaging
+- ETL / ELT pipelines
+
+### Infrastructure & Cloud
+- **Docker** – containerized environments
+- **AWS** – cloud-based deployments
 
 ---
 
@@ -56,7 +66,7 @@ I am particularly interested in environments where:
 ### Proyecto 1: *Huella Hídrica*  
 **Descripción:** Diseño e Implementación de un Pipeline para Vulnerabilidad Hídrica y Social.  
 **Tecnologías:** Python, PySpark, Airflow, AWS  
-**Repositorio:** [GitHub link](https://github.com/YasminaBlanco/huella-hidrica))  
+**Repositorio:** [GitHub link](https://github.com/YasminaBlanco/huella-hidrica) 
 
 ---
 
